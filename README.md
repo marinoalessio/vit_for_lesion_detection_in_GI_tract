@@ -1,1 +1,1 @@
-# vit_for_lesion_detection_in_GI_tract
+# Vision Transformer for Lesion Detection in the Gastrointestinal Tract
